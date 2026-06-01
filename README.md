@@ -9,9 +9,9 @@ Currently specializing in the **AI Development Lifecycle (AIDLC)**—architectin
 ## 🛠️ Core Engineering & AI Competencies
 
 * **AI & Agentic Engineering:** AI Development Lifecycle (AIDLC), Agentic Testing Workflows, LLM Prompt Engineering (Claude), Custom Engineering Productivity Agents.
-* **FinTech & Core Transaction Processing:** OLTP Systems, Mastercard/VISA Compliance, Settlement Processing, Fraud Prevention, and Spend Controls[cite: 1].
-* **Automation Engineering:** Playwright (TypeScript), Python, Selenium WebDriver, Cypress, and Robust Mocking Stacks[cite: 1].
-* **Performance & Scale Infrastructure:** Distributed JMeter Load Testing, Database Query Optimization (Informix/Greenplum), Real-Time Data Synch (Debezium), and Application Troubleshooting[cite: 1].
+* **FinTech & Core Transaction Processing:** OLTP Systems, Mastercard/VISA Compliance, Settlement Processing, Fraud Prevention, and Spend Controls.
+* **Automation Engineering:** Playwright (TypeScript), Python, Selenium WebDriver, Cypress, and Robust Mocking Stacks.
+* **Performance & Scale Infrastructure:** Distributed JMeter Load Testing, Database Query Optimization (Informix/Greenplum), Real-Time Data Synch (Debezium), and Application Troubleshooting.
 
 ---
 
@@ -26,16 +26,16 @@ An enterprise-optimized implementation of the Playwright Model Context Protocol 
 
 ## 📈 Professional Experience & Milestones
 
-* **Lead Quality Engineer @ Motive (Financial Products & Card Ecosystem):** Leading testing strategies for Fraud Protection Guarantees and Dynamic Spend Profile Routing engines[cite: 1]. Spearheading the internal shift toward AI-assisted validation by designing dedicated QA Agents (QA Notes Agent, Review Agent, CRUD API Automation Agent)[cite: 1].
-* **Senior Software Engineer SQA @ i2c Inc. (FinTech Engines):** Optimized core banking evaluations and real-time database syncing infrastructures[cite: 1]. Automated massive validation suites using Python, JMeter, and Selenium, driving down verification windows by 30% and maximizing query processing speeds by 50%[cite: 1].
-* **Product Developer @ BrandCrock GmbH:** Engineered computer-vision-based product exploration features utilizing deep residual learning architectures (ResNet-50) integrated directly into e-commerce backends[cite: 1].
+* **Lead Quality Engineer @ Motive (Financial Products & Card Ecosystem):** Leading testing strategies for Fraud Protection Guarantees and Dynamic Spend Profile Routing engines. Spearheading the internal shift toward AI-assisted validation by designing dedicated QA Agents (QA Notes Agent, Review Agent, CRUD API Automation Agent).
+* **Senior Software Engineer SQA @ i2c Inc. (FinTech Engines):** Optimized core banking evaluations and real-time database syncing infrastructures. Automated massive validation suites using Python, JMeter, and Selenium, driving down verification windows by 30% and maximizing query processing speeds by 50%.
+* **Product Developer @ BrandCrock GmbH:** Engineered computer-vision-based product exploration features utilizing deep residual learning architectures (ResNet-50) integrated directly into e-commerce backends.
 
 ---
 
 ## 🎓 Academic Background
-* **Bachelor of Engineering (BE) - Software Engineering** – National University of Sciences and Technology (NUST)[cite: 1].
+* **Bachelor of Engineering (BE) - Software Engineering** – National University of Sciences and Technology (NUST).
 
 ---
 
 ### 📬 Connect With Me
-Let's talk about the future of QA engineering, transaction processing system scale, or implementing custom AI developer agents. Connect with me directly through [LinkedIn](https://www.linkedin.com/in/nadirali-)[cite: 1]!
+Let's talk about the future of QA engineering, transaction processing system scale, or implementing custom AI developer agents. Connect with me directly through [LinkedIn](https://www.linkedin.com/in/nadirali-)!
